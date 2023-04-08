@@ -1,0 +1,2 @@
+# Sorting Project
+- This is a project for Kodluyoruz/Veri Yapıları ve Algoritmalar. I practiced sorting algorithms which are insetion, merge, selection sort and also tried to visualise a Binary Search three scaleton.
